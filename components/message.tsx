@@ -22,7 +22,7 @@ const Message = () => {
                         <p className="my-4">私たちのクリエイティブソリューションは、<br />
                             ビジネスを革新する力を持っています。<br />
                             飲食業界から外資系企業まで、お客様のニーズに合わせた革新的なアプローチで<br />
-                            ブランディングやマーケティング、デジタルプレゼンスを強化します。
+                            ブランディングやマーケティング、デジタルプレゼンスを強化します！
                         </p>
                         <p className="my-4">私たちはお客様のビジネスに新たな可能性をもたらすため、</p>
                         <p className="my-4">クリエイティビティ、マーケティング、テクノロジーを<br/>
@@ -45,12 +45,10 @@ const Message = () => {
                         <p className="my-4">Our creative solutions possess the power to revolutionize <br />
                             businesses. From the food service industry to multinational <br />
                             corporations, we employ innovative approaches tailored to meet <br />
-                            our clients' needs, strengthening their branding, marketing, and <br />
                             digital presence.</p>
 
 
                         <p className="my-4">With a blend of creativity, marketing, and technology, we deliver  <br />
-                            optimal solutions to unlock new possibilities for our clients'  <br />
                             businesses. Let us join forces to innovate your business and pave <br/>
                             the way to success.
                         </p>
